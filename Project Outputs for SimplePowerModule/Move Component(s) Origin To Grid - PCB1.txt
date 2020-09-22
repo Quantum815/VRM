@@ -1,0 +1,32 @@
+Move Component(s) Origin to Grid
+Filename     : E:\ProgramData\GithubRepositories\Simple-Power-Module\PCB1.PcbDoc
+Date         : 2020/9/22
+Time         : 13:39:23
+Time Elapsed : 00:00:00
+
+
+    Small Component U13-接线端子 (4715mil,3320mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component U10-LM317 (4200mil,2300mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component U8-LM1117 (3085mil,2300mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component U5-L7805 (2900mil,3205mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component U3-L7812 (1760mil,2300mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SIP Component U7-5V (2965mil,1330mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SIP Component U12-GND (2200mil,1770mil) on Top Layer - Component origin is already ON grid.
+    SIP Component U11-可调 (4535mil,1770mil) on Top Layer - Component origin is already ON grid.
+    SIP Component U9-3.3V (4135mil,1770mil) on Top Layer - Component origin is already ON grid.
+    SIP Component U6-5V (3735mil,1770mil) on Top Layer - Component origin is already ON grid.
+    SIP Component U4-12V (1800mil,1770mil) on Top Layer - Component origin is already ON grid.
+    SIP Component U2-VCC (1400mil,1770mil) on Top Layer - Component origin is already ON grid.
+    Small Component U1-接线端子 (1220mil,3320mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component R2-电位器103 (3882.489mil,3309.512mil) on Top Layer - Component pads are OFF grid. No action taken.
+    SMT Small Component R1-200R (3741.512mil,2925.085mil) on Top Layer - Component pads are OFF grid. No action taken.
+    Small Component C9-电解电容22uF (4150mil,2020mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C8-103 (3740mil,2350mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component C7-电解电容22uF (3035mil,2020mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C6-103 (2630mil,2350mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component C5-电解电容22uF (2950mil,2925mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C4-103 (3350mil,3305mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component C3-电解电容22uF (1810mil,2020mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component C2-103 (2210mil,2350mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component C1-电解电容2200uF (2010mil,3315mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+count : 24

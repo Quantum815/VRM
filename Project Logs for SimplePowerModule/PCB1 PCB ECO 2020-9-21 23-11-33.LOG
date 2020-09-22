@@ -1,0 +1,25 @@
+Change Component Comment : Designator=U7 Old Comment=5V New Comment=USB_A
+Added Component: Designator=U3(TO-220)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U5(TO-220)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U8(TO-220)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U10(TO-220)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=NetC2_2 Pin=U3-3
+Added Pin To Net: NetName=VCC Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=NetC4_2 Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=NetC6_2 Pin=U8-2
+Added Pin To Net: NetName=NetC4_2 Pin=U8-3
+Added Pin To Net: NetName=GND Pin=U10-1
+Added Pin To Net: NetName=NetC8_2 Pin=U10-2
+Added Pin To Net: NetName=VCC Pin=U10-3
+Added Member To Class: ClassName=Sheet1 Member=Component U3 L7812CV-DG
+Added Member To Class: ClassName=Sheet1 Member=Component U5 L7805CV-DG
+Added Member To Class: ClassName=Sheet1 Member=Component U8 LM1117-3.3
+Added Member To Class: ClassName=Sheet1 Member=Component U10 LM317T

@@ -1,0 +1,7 @@
+Added Component: Designator=U7(USB-AÖ±²å)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC4_2 Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Member To Class: ClassName=Sheet1 Member=Component U7 USB_A
